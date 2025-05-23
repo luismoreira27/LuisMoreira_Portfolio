@@ -1,6 +1,3 @@
-# Luis Moreira's Portfolio
-
-
 # Examples of the applications of various programming languages
 
 ## [SQL](/projects/Load_and_Query_db.ipynb)
