@@ -1,5 +1,12 @@
 # Luis Moreira's Portfolio
 
+## About
+
+Hi, I’m Luís. I have a background in Biochemistry and hold a Master’s degree in Computational Biology. Throughout my academic journey, I developed strong skills in laboratory techniques, data analysis, and the life sciences. These experiences also helped me build valuable soft skills that are highly transferable to a Data Analyst role.
+
+During my Master’s program, I gained significant experience in programming and working with biological datasets. This allowed me to strengthen my abilities in data manipulation, analysis, and storytelling—skills that enable me to extract meaningful insights and answer complex questions from data.
+
+In my free time, I enjoy activities such as reading and going to the gym. I'm also passionate about engaging in extracurricular initiatives, including co-founding a Junior Initiative during my time at university.
 
 # E-commerce dataset analysis
 
