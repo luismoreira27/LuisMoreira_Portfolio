@@ -8,17 +8,41 @@ During my Master’s program, I gained significant experience in programming and
 
 In my free time, I enjoy activities such as reading and going to the gym. I'm also passionate about engaging in extracurricular initiatives, including co-founding a Junior Initiative during my time at university.
 
-# E-commerce dataset analysis
+In this repository I showcase skills and projects related to my Data Analyst journey.
 
-## Load and Query the Dataset
-- Creation of SQL database using SQLite3.
-- Loading dataset to SQL Database using Pandas.
-- Using various types of queries to better visualize relation between data columns.
-- The Jupyter Notebook with the code can be found [here](/projects/Load_and_Query_db.ipynb)
+## Portfolio Projects
 
-## Plotting of the Data
-- Loading the dataset from the SQL database.
-- Preparing the data for plotting.
-- Plotting the data using Matplotlib, Seaborn and Pandas.
-- For the plotting is important to analyze what is more important for answers we need.
-- The Jupyter Notebook with the code can be found [here](/projects/ecom_ana.ipynb)
+### E-Commerce Dataset Data Exploration
+
+**Objective**: Explore the dataset to see what type of information we have available.
+
+The code can be found [here](/projects/Load_and_Query_db.ipynb)
+
+**Description**: This Dataset is related to E-Commerce Sales in 2010 and 2011. Using SQL with the package SQLite3 I was able to create a Database to store the data and also query and explore it.
+
+**Results**: By exploring the data I found out what type of variables I was working with and, by creating groups, see how those variables relate to each other.
+
+
+### E-Commerce Dataset Analysis
+
+**Objective**: Found out the various information about how the sales behave in terms of country, time of year, time of day and type of item.
+
+The code can be found [here](/projects/ecom_ana.ipynb)
+
+**Description**: This Dataset is related to E-Commerce Sales in 2010 and 2011. Using Pandas, Matplotlib and Seaborn I tried to understand how the sales behave in terms of country, time of year and time of day.
+
+**Results**: After the analysis we can see that the country where there was more sales was the United Kingdom and the time of year was November. This can give the E-Commerce company an insight on where and when to invest more in marketing. Also with the plotting of the most sold items we can see what is the item that is bring more income.
+
+## Education
+
+University of Coimbra, Master's in Computational Biology - September 2022 - July 2024
+University of Coimbra, Bachelor's in Biochemistry - September 2019 - July 2022
+
+## Certificates
+
+- IBM Data Analyst Professional Certificate (May 2025)(Coursera-IBM)
+
+## Contacts
+
+- Linkedin: [@luismoreira](www.linkedin.com/in/luis-moreira-421506200)
+- Email: luispmoreira27@gmail.com
