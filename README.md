@@ -35,8 +35,8 @@ The code can be found [here](/projects/ecom_ana.ipynb)
 
 ## Education
 
-University of Coimbra, Master's in Computational Biology - September 2022 - July 2024
-University of Coimbra, Bachelor's in Biochemistry - September 2019 - July 2022
+- University of Coimbra, Master's in Computational Biology - September 2022 - July 2024
+- University of Coimbra, Bachelor's in Biochemistry - September 2019 - July 2022
 
 ## Certificates
 
