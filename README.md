@@ -33,6 +33,18 @@ The code can be found [here](/projects/ecom_ana.ipynb)
 
 **Results**: After the analysis we can see that the country where there was more sales was the United Kingdom and the time of year was November. This can give the E-Commerce company an insight on where and when to invest more in marketing. Also with the plotting of the most sold items we can see what is the item that is bring more income.
 
+
+### Sales Data Analysis
+
+**Objective**: Analyze the data to see how the sales behave over time, country, customer segment and profit level.
+
+The code can be found [here](/projects/Sales_data_analysis.ipynb)
+
+**Description**: The dataset is an AI generated dataset with information of sales and customers. Using Pandas, Matplotlib and Seaborn I tried to understand how the sales behave in terms of customer segment, country, product sales and profit. This type of analysis is useful to companies to see in which sector they should invest more either in stock or marketing.  
+
+**Results**: After the analysis I could evaluate that the United States is the country with the most sales and also what were the most sold and more profitable products. In terms of what type  of customers the dataset contains, I found out that in terms of gender it is very even out and the most common age group is between 46 and 60 years old.
+
+
 ## Education
 
 - University of Coimbra, Master's in Computational Biology - September 2022 - July 2024
@@ -40,7 +52,7 @@ The code can be found [here](/projects/ecom_ana.ipynb)
 
 ## Certificates
 
-- IBM Data Analyst Professional Certificate (May 2025)(Coursera-IBM)
+- IBM Data Analyst Professional Certificate - May 2025 - Coursera/IBM
 
 ## Contacts
 
