@@ -13,15 +13,15 @@ In this repository I showcase skills and projects related to my Data Analyst jou
 ## Table of Contents
 
 - [About](README.md#about)
-- [Portfolio Projects](github.com/luismoreira27/LuisMoreira_Portfolio#portfolio-projects)
+- [Portfolio Projects](README.md#portfolio-projects)
   - SQL
-    - [E-Commerce Dataset Data Exploration](github.com/luismoreira27/LuisMoreira_Portfolio#e-commerce-dataset-data-exploration)
+    - [E-Commerce Dataset Data Exploration](README.md#e-commerce-dataset-data-exploration)
   - Python
-    - [E-Commerce Data Analysis](github.com/luismoreira27/LuisMoreira_Portfolio#e-commerce-dataset-analysis)
-    - [Sales Data Analysis](github.com/luismoreira27/LuisMoreira_Portfolio?tab=readme-ov-file#sales-data-analysis)
-- [Education](github.com/luismoreira27/LuisMoreira_Portfolio?tab=readme-ov-file#education)
-- [Certificates](github.com/luismoreira27/LuisMoreira_Portfolio?tab=readme-ov-file#certificates)
-- [Contacts](github.com/luismoreira27/LuisMoreira_Portfolio?tab=readme-ov-file#contacts)
+    - [E-Commerce Data Analysis](README.md#e-commerce-dataset-analysis)
+    - [Sales Data Analysis](README.md#sales-data-analysis)
+- [Education](README.md#education)
+- [Certificates](README.md#certificates)
+- [Contacts](README.md#contacts)
 
 ## Portfolio Projects
 
