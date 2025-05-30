@@ -10,6 +10,19 @@ In my free time, I enjoy activities such as reading and going to the gym. I'm al
 
 In this repository I showcase skills and projects related to my Data Analyst journey.
 
+## Table of Contents
+
+- [About](github.com/luismoreira27/LuisMoreira_Portfolio#about)
+- [Portfolio Projects](github.com/luismoreira27/LuisMoreira_Portfolio#portfolio-projects)
+  - SQL
+    - [E-Commerce Dataset Data Exploration](github.com/luismoreira27/LuisMoreira_Portfolio#e-commerce-dataset-data-exploration)
+  - Python
+    - [E-Commerce Data Analysis](github.com/luismoreira27/LuisMoreira_Portfolio#e-commerce-dataset-analysis)
+    - [Sales Data Analysis](github.com/luismoreira27/LuisMoreira_Portfolio?tab=readme-ov-file#sales-data-analysis)
+- [Education](github.com/luismoreira27/LuisMoreira_Portfolio?tab=readme-ov-file#education)
+- [Certificates](github.com/luismoreira27/LuisMoreira_Portfolio?tab=readme-ov-file#certificates)
+- [Contacts](github.com/luismoreira27/LuisMoreira_Portfolio?tab=readme-ov-file#contacts)
+
 ## Portfolio Projects
 
 ### E-Commerce Dataset Data Exploration
@@ -52,7 +65,7 @@ The code can be found [here](/projects/Sales_data_analysis.ipynb)
 
 ## Certificates
 
-- IBM Data Analyst Professional Certificate - May 2025 - Coursera/IBM
+- Coursera/IBM, IBM Data Analyst Professional Certificate - May 2025
 
 ## Contacts
 
