@@ -12,7 +12,7 @@ In this repository I showcase skills and projects related to my Data Analyst jou
 
 ## Table of Contents
 
-- [About](github.com/luismoreira27/LuisMoreira_Portfolio#about)
+- [About](README.md#about)
 - [Portfolio Projects](github.com/luismoreira27/LuisMoreira_Portfolio#portfolio-projects)
   - SQL
     - [E-Commerce Dataset Data Exploration](github.com/luismoreira27/LuisMoreira_Portfolio#e-commerce-dataset-data-exploration)
