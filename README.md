@@ -57,6 +57,11 @@ The code can be found [here](/projects/Sales_data_analysis.ipynb)
 
 **Results**: After the analysis I could evaluate that the United States is the country with the most sales and also what were the most sold and more profitable products. In terms of what type  of customers the dataset contains, I found out that in terms of gender it is very even out and the most common age group is between 46 and 60 years old.
 
+### Sales Dashboard
+
+The Dashboard file can be found [here](/projects/Sales_Dashboard.pbix)
+
+![alt text](/sales_dashboard_image.png "Sales Dashboard")
 
 ## Education
 
