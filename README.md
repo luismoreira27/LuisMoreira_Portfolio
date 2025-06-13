@@ -19,6 +19,8 @@ In this repository I showcase skills and projects related to my Data Analyst jou
   - Python
     - [E-Commerce Data Analysis](README.md#e-commerce-dataset-analysis)
     - [Sales Data Analysis](README.md#sales-data-analysis)
+  - Power BI
+    - [Sales Dashboard](README.md#sales-dashboard)
 - [Education](README.md#education)
 - [Certificates](README.md#certificates)
 - [Contacts](README.md#contacts)
